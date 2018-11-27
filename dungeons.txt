@@ -1,16 +1,16 @@
 30 - Deadmines, Ragefire Chasm
-32 - Wailing Caverns
+32 - The Stockades
 34 - Shadowfang Keep
-36 - Blackfathom Deeps
-38 - The Stockades
-40 - Gnomeregan
+36 - Gnomeregan
+38 - Wailing Caverns
+40 - Blackfathom Deeps (10 man)
 42 - Razorfen Kraul
 44 - Scarlet Monastery
 46 - Razorfen Downs
-48 - Uldaman
-50 - Zul'Farrak
+48 - Zul'Farrak
+50 - Maraudon (10 man)
 52 - The Sunken Temple
-54 - Maraudon
+54 - Uldaman
 56 - Blackrock Depths
 58 - DM East, DM West, Stratholme
 60 - DM North, Scholomance, BRS, Onyxia, MC, ZG, AQ20, BWL, AQ40, Naxx
